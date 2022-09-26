@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer and ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPDutTVPa6nDOASI4rXp-L3YwlLYcZjXmAm-xaqYnRnf8vNKnMueAlAkpkbysUvgi5NU&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanmahajan460&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanmahajan460" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshufarkya&label=Profile%20views&color=0e75b6&style=flat" alt="himanshufarkya" /> </p>
 
 - 🔭 I’m currently working on **Omdena Algeria Chapter (open Source Colaboration)**
 
