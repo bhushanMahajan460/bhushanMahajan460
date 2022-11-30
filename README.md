@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhushanmahajan460@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OkxjzV6VsZQTSLgFwv1TVyg5KCJ_t7lT/view?usp=sharing]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/19uTKNHRV4tZjpnCBeUblTRyyUe1d3Gia/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OkxjzV6VsZQTSLgFwv1TVyg5KCJ_t7lT/view?usp=sharing](https://drive.google.com/file/d/19uTKNHRV4tZjpnCBeUblTRyyUe1d3Gia/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
