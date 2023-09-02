@@ -19,15 +19,15 @@ class journey_Begins{
     cout << "One should be curious in trying innovative ideas to solving complex problems" << endl;
     cout << Hello Everyone, I am " << name << "a" << year << "student. Currenlty pursuing "<< degree << "from" << college << " with CGPA " << cgpa << endl;
   }
-  virtual void technical_Skills( vector<string> s ){
-    cout << "Learning Never Stops! :D "<< endl;
-    cout << "My Technical Skills includes : " ;
-    for( auto &it : s ) cout << it.first << ":" << it.second << endl;
-  }
-  virtual void technical_Skills( vector<string> s ){
+  virtual void technical_Skills( vector<string> &s ){
     cout << "Learning Never Stops! :D "<< endl;
     cout << "My Technical Skills includes : " ;
     for( auto &it : s ) cout << it << " " ;
+  }
+  virtual void Coding( vector<string> &c ){
+    cout << "Learning Never Stops! :D "<< endl;
+    cout << "My Coding Profiles are : " ;
+    for( auto &it : c ) cout << it.first << ":" << it.second << endl; 
   }
 };
 int main(){
