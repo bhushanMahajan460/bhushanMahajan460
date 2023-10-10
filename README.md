@@ -1,4 +1,5 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+![MasterHead](https://github.com/bhushanMahajan460/bhushanMahajan460/assets/68232386/5243c3c1-e117-4225-915b-55711643f683
+)
 <h2 align="center">Hi 👋, I'm Bhushan Mahajan 🫱🏻‍🫲🏽</h2>
 <h3 align="center"> DSA in C++ || 800+ on Leetcode || ML Enthusisat || Problem Solving </h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPDutTVPa6nDOASI4rXp-L3YwlLYcZjXmAm-xaqYnRnf8vNKnMueAlAkpkbysUvgi5NU&usqp=CAU"> -->
