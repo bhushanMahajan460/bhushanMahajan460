@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/bhushanMahajan460/bhushanMahajan460/assets/68232386/5243c3c1-e117-4225-915b-55711643f683
-)
+![MasterHead](https://github.com/bhushanMahajan460/bhushanMahajan460/assets/68232386/ba8ad39c-e599-4b26-aa8b-8b1ea32e75ea)
+
 <h2 align="center">Hi 👋, I'm Bhushan Mahajan 🫱🏻‍🫲🏽</h2>
 <h3 align="center"> DSA in C++ || 800+ on Leetcode || ML Enthusisat || Problem Solving </h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPDutTVPa6nDOASI4rXp-L3YwlLYcZjXmAm-xaqYnRnf8vNKnMueAlAkpkbysUvgi5NU&usqp=CAU"> -->
